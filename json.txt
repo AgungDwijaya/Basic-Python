@@ -1,0 +1,1 @@
+{"gung": {"nama": "gung", "alamat": "PCA1", "nomor": 1234}, "jaya": {"nama": "jaya", "alamat": "PCA2", "nomor": 4321}}
